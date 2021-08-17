@@ -25,4 +25,4 @@
 
 
 ## Restrições
-### R 01 - O sistema de elevadores deverá possuir uma fila de mensagem para cada elevador.
+### R01 - O sistema de elevadores deverá possuir uma fila de mensagem para cada elevador.
