@@ -21,7 +21,8 @@
 ## Requisitos Não-Funcionais
 ### RNF01 - O sistema de elevadores deverá utilizar o kit de desenvolvimento Ek-TM4C1294XL.
 ### RNF02 - O sistema de elevadores deverá apresentar um tempo máximo de 200 ms para o atendimento de um comando.
-### RNF01 - O sistema de elevadores deverá apresentar um tempo máximo de 100 ms para a movimentação do elevador requisitado.
+### RNF03 - O sistema de elevadores deverá apresentar um tempo máximo de 100 ms para a movimentação do elevador requisitado.
+### RNF04 - O sistema de elevadores deverá apresentar um tempo máximo inferior a  100 ms para a parada total do mesmo no andar especificado.
 
 
 ## Restrições
