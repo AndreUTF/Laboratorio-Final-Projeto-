@@ -28,6 +28,11 @@
 ## Restrições
 ### R01 - O sistema de elevadores deverá possuir uma fila de mensagem para cada elevador.
 
-## Restrições
+## Diagrama
 ### Diagrama de Objetos
 ![Object Diagram Final Project](https://user-images.githubusercontent.com/28169956/129996202-701bc459-2059-488a-9f72-b522e733e7a4.png)
+
+## Diagrama
+### Diagrama de Atividades
+### Main Task
+![main-task](https://user-images.githubusercontent.com/28169956/129998023-70f7c555-9880-4ef1-84e8-c4f0ac50aee8.png)
