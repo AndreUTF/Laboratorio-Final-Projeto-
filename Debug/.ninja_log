@@ -1,0 +1,15 @@
+# ninja log v5
+1	229	6506648671216753	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/startup_TM4C1294.o	ae29b246daf428cd
+6	381	6506648672677075	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/RTX_Config.o	5315616102d475b4
+284	327	6510362642735292	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.bin	6e284e37bcc73faa
+11	398	6506648672787099	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/system_TM4C1294_TW.o	cdc7ffd3f19b04ba
+17	405	6506648672797107	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/rtx_lib.o	339725064f3a506a
+1	192	6510362641324970	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/UART_inst.o	9d61f619bb2ab87c
+4	243	6506999139215574	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/uartstdio.o	d8e0a12ae3c842d9
+199	276	6510362642135143	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.out	44a77f84ba94edad
+1	244	6510363387530592	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/UART_inst.o	9d61f619bb2ab87c
+252	383	6510363388890903	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.out	44a77f84ba94edad
+390	434	6510363389491036	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.bin	6e284e37bcc73faa
+2	269	6510393134975838	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/UART_inst_modificado.o	dd7d4aa2ff3cff29
+277	383	6510393136096094	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.out	75ef009a1445d918
+391	428	6510393136636211	C:/Users/Andre/Desktop/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.bin	6e284e37bcc73faa
