@@ -36,3 +36,4 @@
 ### Diagrama de Atividades
 ### Main Task
 ![Object Diagram Final Project (3)](https://user-images.githubusercontent.com/28169956/130155666-3f24c425-7d4e-4c45-8069-94ba575533e6.png)
+![tasks](https://user-images.githubusercontent.com/28169956/130166006-82a4c626-ac13-4e35-b744-5073e09572ae.png)
